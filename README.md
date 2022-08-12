@@ -8,3 +8,4 @@ Useful Links
 * Example Names: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-naming#example-names-for-common-azure-resource-types
 * Abbreviations: https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/resource-abbreviations
 * Static Web Hosting: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website
+* Static Web Hosting: https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website-how-to?tabs=azure-portal
